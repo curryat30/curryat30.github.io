@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://curryat30.github.io</id>
     <title>Czy`s blog</title>
-    <updated>2020-03-19T07:02:33.594Z</updated>
+    <updated>2020-03-19T07:09:09.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://curryat30.github.io"/>
     <link rel="self" href="https://curryat30.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://curryat30.github.io/images/avatar.png</logo>
     <icon>https://curryat30.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Czy`s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[blog从哪来？]]></title>
+        <id>https://curryat30.github.io/post/blog-cong-na-lai/</id>
+        <link href="https://curryat30.github.io/post/blog-cong-na-lai/">
+        </link>
+        <updated>2020-03-19T07:03:40.000Z</updated>
+        <content type="html"><![CDATA[<p>一开始的创建这个blog的想法是？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello 陌生人！]]></title>
         <id>https://curryat30.github.io/post/hello-gridea/</id>
