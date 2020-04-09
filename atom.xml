@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://curryat30.github.io</id>
     <title>Czy`s blog</title>
-    <updated>2020-03-22T12:33:22.782Z</updated>
+    <updated>2020-04-09T13:13:00.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://curryat30.github.io"/>
     <link rel="self" href="https://curryat30.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://curryat30.github.io/images/avatar.png</logo>
     <icon>https://curryat30.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Czy`s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Nikon D6——廉颇老矣，尚能饭否？]]></title>
+        <id>https://curryat30.github.io/post/nikon-d6-lian-po-lao-yi-shang-neng-fan-fou/</id>
+        <link href="https://curryat30.github.io/post/nikon-d6-lian-po-lao-yi-shang-neng-fan-fou/">
+        </link>
+        <updated>2020-04-09T13:09:27.000Z</updated>
+        <content type="html"><![CDATA[<p>本文中部分体验经历来源于B站UP主：几维，希望大家多多关注他的栏目。<br>
+尼康公司于近日发布产品D6，但是网络上出现的一边倒的贬低评论，其中主要受到诟病之处在于其参数看起来不是十分优秀。而对于参数方面的讨论又主要集中在对焦系统方面。<br>
+众说周知Nikon的对焦系统一直是独树一帜的，特别是对于同级别同价位的竞争对手经常可以体现出优势。有一种说法是“大师都用手动对焦”，其实这种说法不够准确，具体需要运用那哪种对焦方式，不与水平有关而是和应用场景有关，在这里不做展开阐述，举一个例子：对于新闻摄影工作者来说，对对焦的准确性和连拍性能要求较高，如果全盘采用手动对焦会造成不方便。<br>
+Nikon家的D810采用51点对焦系统，其中15个是十字对焦点且主要集中在中间，其他以一字对焦点的形式分布在边缘。<br>
+NikonD5、D500连续对焦，弱光对焦，边缘对焦准确性都很高，在全开光圈，浅景深的情况下几乎能保证每张照片的准确对焦。带给使用者很好的使用体验。<br>
+佳能同时代的产品1DX2采用了与尼康类似的场景识别的功能，根据相机的对焦原理与场景识别相关的传感器的数量多少与对焦准确性相关，佳能1DX2可以达到18万像素，而尼康大约9w，但是使用者实际反馈出来的使用体验显示，双方在日常应用中差别不到，Nikon有些场景条件下做的还稍好。<br>
+可见参数不能完全决定用户的使用体验，可能与各厂家对传感器的算法调教也有关系。<br>
+我建议各位可以亲自去用一用，体验一下，或者听听那些租到手或者买到手的用户的亲身体验，然后再对产品做出评价。<br>
+https://www.nikon.com.cn/sc_CN/product/digital-slr-cameras/d6#features_explained/1<br>
+以上链接有Nikon官网对D6对焦系统的介绍。<br>
+虽然对焦点总数减少了，但是实际可选对焦点数量增加，通过与隐藏辅助对焦点的联动，可以很好的测距，准确对焦物体。<br>
+D6增加了对焦点的密度，增加了覆盖面积，用更多的十字对焦点保证稳定的工作，三个横纹检测+三个竖纹坚持构成三重影像传感器，使对焦更加精准。<br>
+总的来说，尼康仍旧保持着它一贯沉稳扎实的风格研发新产品，固执的希望在某一领域做到极致，精神令人感动，但是情怀却无法带来效益，我们不仅希望Nikon能推出极致工业设计的产品，更希望的是这个百年大厂能走得更远！<br>
+回到主题，我觉得摄影器材的生命并不是参数，而是每一个生动活泼的使用者和他们带来的精彩作品，这些生动的人物和作品不断推动我们的摄影事业不断向前发展。技术是无时无刻不在发展着的，今日华丽的参数彼时也一定会过时，只有那些摄影先辈们留下的足迹才是真正值得我们追寻的，摄影作为人类的一门艺术形式，带给我们的快乐终将在我们心中永远延续！<br>
+谢谢大家的观看——献给Nkion的工匠们！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[blog从哪来？]]></title>
         <id>https://curryat30.github.io/post/blog-cong-na-lai/</id>
